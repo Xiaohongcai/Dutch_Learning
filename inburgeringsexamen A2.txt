@@ -1,0 +1,72 @@
+het verkeer		traffic
+het stuur		The wheel
+het vliegtuig		the plane
+de boot		the boat
+de tramhalte		the tramstop
+het kaartje		the ticket
+het spoor		rail
+de chauffeur		the driver
+de piloot		the pilot
+de chauffeur		the driver
+de piloot		the pilot
+de file		traffic jam
+de brug		the bridge
+de weg		the route
+het fietspad		the bicycle lane
+de garage		the garage
+de garage		the garage
+het ongeluk		the accident
+de botsing		the crash
+de benzine		the gasoline
+het vervoer		the transport
+de navigatie		the navigation
+het openbaar vervoer		public transport
+de aankomst		the arrival
+het vertrek		departure
+de reiziger		the traveller
+het perron		the platform
+de conducteur		the conductor
+de conducteur		the conductor
+de haven		the harbor
+de luchthaven		the airport
+het vliegveld		the airport
+de stewardess		the stewardess
+de stewardess		the stewardess
+de bagage		the bagage
+bagage		luggage
+de bromfiets		the moped
+de bromfiets		the moped
+de scooter		the scooter
+de hoek		the corner
+de veiligheid		the safety
+de parkeergarage		the parking garage
+de reiskosten		the travel costs
+inchecken		checking in
+instappen		to get in
+uitstappen		to get off
+rijden		to drive
+aankomen		arrive
+vertrekken		leave
+stoppen		fuses
+stoppen		fuses
+stoppen		fuses
+stoppen		fuses
+fietsen		fuses
+starten		start
+ophalen		to pick up
+wegbrengen		take away
+parkeren		parking
+oversteken		to cross
+richting aangeven		indicate direction
+richting aangeven		indicate direction
+besturen		control
+linksaf		left
+rechtsaf		turn right
+rechtdoor		straight ahead
+via		through
+langzaam		slowly
+vlug		hurry
+veilig		safe
+kapot		Broken
+vooruit		forward
+achteruit		backwards
